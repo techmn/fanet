@@ -1,9 +1,10 @@
-# fanet
+# FANet: Feature Amplification Network for Semantic Segmentation in Cluttered Background
 Code will be available soon.
 
+=======
+## Accepted in IEEE ICIP 2024
 
-## Citation
-
+# Citation
 ```
 @inproceedings{Ali2024FANet,
   title={FANet: Feature Amplification Network for Semantic Segmentation in Cluttered Background},
@@ -11,3 +12,4 @@ Code will be available soon.
   booktitle={IEEE ICIP 2024},
   year={2024}
 }
+```
