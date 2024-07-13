@@ -1,4 +1,4 @@
-# fanet
+# FANet: Feature Amplification Network for Semantic Segmentation in Cluttered Background
 Code will be available soon.
 
 
