@@ -1,7 +1,7 @@
 # FANet: Feature Amplification Network for Semantic Segmentation in Cluttered Background
 Code will be available soon.
 
-
+https://arxiv.org/pdf/2407.09379
 ## Accepted in IEEE ICIP 2024
 
 # Citation
