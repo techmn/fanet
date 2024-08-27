@@ -19,6 +19,10 @@ Datasets
 -----------------
 Get the **Zero Waste dataset** from here [[Zero Waste Dataset]](https://ai.bu.edu/zerowaste/)
 
+Model Weights
+-----------------
+FANet ImageNet-1k weights [[Download]](https://huggingface.co/mubashir04/fanet_zerowaste_segmentation)
+
 # Citation
 ```
 @inproceedings{Ali2024FANet,
