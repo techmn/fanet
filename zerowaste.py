@@ -9,7 +9,7 @@ class ZeroWasteDataset(CustomDataset):
     """
     METAINFO = dict(
         classes=('background','rigid_plastic', 'cardboard', 'metal', 'soft_plastic'),
-        palette=[[10, 10, 10], [6, 230, 230],[4, 200, 3], [204, 5, 255], [235, 255, 7]])
+        palette=[[10, 10, 10], [230, 5, 5],[4, 200, 3], [204, 5, 255], [5, 128, 148]])
 
     def __init__(self,
                  img_suffix='.png',
